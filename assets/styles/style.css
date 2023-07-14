@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: #6fea1ef7;
+    padding: 10px;
+}
+
+
+h1 {
+    text-align: center;
+}
